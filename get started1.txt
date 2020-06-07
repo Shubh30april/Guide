@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+</style>
+<style>
+body {
+  background-image:url('123.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<body>
+<ul>
+  <li><a href="file:///C:/Users/shubh/Desktop/HTML/get%20started1.htm">Home</a></li>
+</ul>
+
+<h2 style="font-size:70px;font-family:Courier New;color:dark blue">Shubh's Guide For TV Series</h2>
+
+<p style="font-size:30px;color:Black;">Welcome to my new website for TV series.<br>If you are bored and want to get relaxed and entertained,<br>here are my picks for<br>some great TV shows for you to binge watch.</p>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+<a href="file:///C:/Users/shubh/Desktop/HTML/page%202.htm" target="_blank">Get Started</a>
+
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+</style>
+
+<style>
+body {
+  background-image:url('Crime.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<body>
+<ul>
+  <li><a href="file:///C:/Users/shubh/Desktop/HTML/get%20started1.htm">Home</a></li>
+</ul>
+<h1 style="font-size:70px;font-family:Courier New;color:White">Shubh's Guide For TV Series</h1>
+
+<table style="width:50%">
+  <tr>
+    <td><img src="Peaky Blinders.jpg"  style="height:600px;width:400px;"></td>
+    <td><img src="Narcos.jpg" style="height:600px;width:400px;"></td> 
+    <td><img src="The Wire.jpg" style="height:600px;width:400px;"></td>
+  </tr>
+  <tr>
+    <td><b>Peaky Blinders</b></td>
+    <td><b>Narcos</b></td>
+    <td><b>The Wire</b></td>
+  </tr>
+  <tr>
+    <td><b>IMDb:8.8</b></td>
+    <td><b>IMDb:8.8</b></td>
+    <td><b>IMDb:9.3</b></td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+<tr>
+    <td><img src="Sherlock.jpg"  style="height:600px;width:400px;"></td>
+    <td><img src="Luther.jpg" style="height:600px;width:400px;"></td> 
+    <td><img src="Dexter.jpg" style="height:600px;width:400px;"></td>
+  </tr>
+  <tr>
+    <td><b>Sherlock</b></td>
+    <td><b>Luther</b></td>
+    <td><b>Dexter</b></td>
+  </tr>
+  <tr>
+    <td><b>IMDb:9.1</b></td>
+    <td><b>IMDb:8.5</b></td>
+    <td><b>IMDb:8.6</b></td>
+  </tr>
+<tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+<tr>
+    <td><img src="Fargo.jpg"  style="height:600px;width:400px;"></td>
+    <td><img src="Mr. Robot.jpg" style="height:600px;width:400px;"></td> 
+    <td><img src="The Night Manager.jpg" style="height:600px;width:400px;"></td>
+  </tr>
+  <tr>
+    <td><b>Fargo</b></td>
+    <td><b>Mr. Robot</b></td>
+    <td><b>The Night Manager</b></td>
+  </tr>
+  <tr>
+    <td><b>IMDb:8.9</b></td>
+    <td><b>IMDb:8.5</b></td>
+    <td><b>IMDb:8.1</b></td>
+  </tr>
+</table>
+
+</body>
+</html>

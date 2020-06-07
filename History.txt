@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+</style>
+<style>
+body {
+  background-image:url('History.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<body>
+<ul>
+  <li><a href="file:///C:/Users/shubh/Desktop/HTML/get%20started1.htm">Home</a></li>
+</ul>
+<h1 style="font-size:70px;font-family:Courier New;color:Black">Shubh's Guide For TV Series</h1>
+
+<table style="width:50%;color:white;">
+  <tr>
+    <td><img src="Vikings.jpg"  style="height:600px;width:400px;"></td>
+    <td><img src="Rome.jpg" style="height:600px;width:400px;"></td> 
+    <td><img src="The Last Kingdom.jpg" style="height:600px;width:400px;"></td>
+  </tr>
+  <tr>
+    <td><b>Vikings</b></td>
+    <td><b>Rome</b></td>
+    <td><b>The Last Kingdom</b></td>
+  </tr>
+  <tr>
+    <td><b>IMDb:8.6</b></td>
+    <td><b>IMDb:8.7</b></td>
+    <td><b>IMDb:8.4</b></td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+<tr>
+    <td><img src="Spartacus.jpg"  style="height:600px;width:400px;"></td>
+    <td><img src="Black Sails.jpg" style="height:600px;width:400px;"></td> 
+    <td><img src="The Terror.jpg" style="height:600px;width:400px;"></td>
+  </tr>
+  <tr>
+    <td><b>Spartacus</b></td>
+    <td><b>Black Sails</b></td>
+    <td><b>The Terror</b></td>
+  </tr>
+  <tr>
+    <td><b>IMDb:8.5</b></td>
+    <td><b>IMDb:8.2</b></td>
+    <td><b>IMDb:8.0</b></td>
+  </tr>
+
+</table>
+</body>
+</html>
